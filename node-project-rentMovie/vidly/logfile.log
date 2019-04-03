@@ -1,0 +1,48 @@
+{"message":"好像有点不对","level":"error"}
+{"message":"好像有点不对","level":"error"}
+{"message":"好像有点不对","level":"error"}
+{"message":"好像有点不对","level":"error"}
+{"message":"好像有点不对","level":"error"}
+{"level":"error","message":"好像有点不对"}
+{"level":"error","message":"好像有点不对"}
+{"level":"error","message":"好像有点不对"}
+{"level":"error","message":"好像有点不对"}
+{"message":"好像有点不对","level":"error"}
+{"message":"好像有点不对","level":"error"}
+{"level":"error","message":"not done"}
+{"level":"error","message":"not done"}
+{"level":"error","message":"a promise rejection"}
+{"message":"好像有点不对","level":"error"}
+{"message":"好像有点不对","level":"error"}
+{"level":"error","message":"a promise rejection"}
+{"level":"error","message":"winston.handExceptions is not a function"}
+{"level":"error","message":"winston.handExceptions is not a function"}
+{"level":"error","message":"a uncaughtException"}
+{"level":"error","message":"a uncaughtException"}
+{"level":"error","message":"a uncaughtException"}
+{"level":"error","message":"a uncaughtException"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"code":"MODULE_NOT_FOUND","level":"error","message":"Cannot find module './startup/routess'"}
+{"code":"MODULE_NOT_FOUND","level":"error","message":"Cannot find module './startup/routess'"}
+{"code":"MODULE_NOT_FOUND","level":"error","message":"Cannot find module './startup/routess'"}
+{"code":"MODULE_NOT_FOUND","level":"error","message":"Cannot find module './startup/routess'"}
+{"code":"MODULE_NOT_FOUND","level":"error","message":"Cannot find module './startup/routess'"}
+{"code":"MODULE_NOT_FOUND","level":"error","message":"Cannot find module './startup/routess'"}
+{"code":"MODULE_NOT_FOUND","level":"error","message":"Cannot find module './startup/routess'"}
+{"code":"MODULE_NOT_FOUND","level":"error","message":"Cannot find module './startup/routess'"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"出错了！！！","level":"error"}
+{"message":"好像有点不对","level":"warn"}
+{"message":"出错了！！！","level":"error"}
+{"message":"好像有点不对","level":"warn"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
